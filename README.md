@@ -30,5 +30,5 @@ A simple Android application for managing notes. Users can add, view, and delete
 
 Clone the repository:
    ```bash
-   git clone https://github.com/your-username/NoteTakingApp.git
+   git clone https://github.com/BenCheikhAhmed/Note-Taking-App.git
   ```
